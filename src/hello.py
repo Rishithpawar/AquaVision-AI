@@ -1,0 +1,1 @@
+print("AquaVision AI is ready!")

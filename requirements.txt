@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+opencv-python
+ultralytics
+scikit-learn
+reportlab
+matplotlib
